@@ -1,4 +1,4 @@
-<h2 align="left">"Hi 👋! My name is Hemant Chhetri, and I'm an AI/ML learner from Nepal.</h2>
+<h1 align="left">"Hi 👋! My name is Hemant Chhetri, and I'm an AI/ML learner from Nepal.</h1>
 
 ###
 
